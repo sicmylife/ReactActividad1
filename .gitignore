@@ -1,0 +1,71 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+
+  ../../../.bash_history
+        ../../../.dbus-keyrings/
+        ../../../.gitconfig
+        ../../../.idlerc/
+        ../../../.lesshst
+        ../../../.vscode/
+        ../../../3D Objects/
+        ../../../AppData/
+        ../../../Contacts/
+        ../../../Creative Cloud Files daniel.fireflynewmedia@gmail.com d493135637582f03b1253dbde1976009f80a10389c6fda75bade8825dff35c23/
+        ../../../Creative Cloud Files/
+        ../../GitHub Desktop.lnk
+        ../eventos/
+        ../miproyecto/
+        ../../Roblox Player.lnk
+        ../../Roblox Studio.lnk
+        ../../Telegram.lnk
+        ../../VScode/
+        ../../Visual Studio Code.lnk
+        ../../Zoom.lnk
+        ../../blender.lnk
+        ../../desktop.ini
+        ../../javascript/
+        ../../../Documents/
+        ../../../Downloads/
+        ../../../Favorites/
+        ../../../IntelGraphicsProfiles/
+        ../../../Links/
+        ../../../Music/
+        ../../../NTUSER.DAT
+        ../../../NTUSER.DAT{1c2b59c6-c5f5-11eb-bacb-000d3a96488e}.TM.blf
+        ../../../NTUSER.DAT{1c2b59c6-c5f5-11eb-bacb-000d3a96488e}.TMContainer00000000000000000001.regtrans-ms
+        ../../../NTUSER.DAT{1c2b59c6-c5f5-11eb-bacb-000d3a96488e}.TMContainer00000000000000000002.regtrans-ms
+        ../../../OneDrive/
+        ../../../Pictures/
+        ../../../Saved Games/
+        ../../../Searches/
+        ../../../Videos/
+        ../../../eventos/
+        ../../../movies-react/
+        ../../../ntuser.dat.LOG1
+        ../../../ntuser.dat.LOG2
+        ../../../ntuser.ini
+        ../../../react-course/
+        ../../../text1551.png
